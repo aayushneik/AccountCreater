@@ -1,5 +1,6 @@
 import amino
 import json
+Import requests
 import pyfiglet
 from colorama import init, Fore, Back, Style
 init()
