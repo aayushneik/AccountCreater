@@ -22,4 +22,4 @@ while True:
   d["password"]=str(password)
   t=json.dumps(d)
   f.write(t+',')
-  print("Saved in File newmail.txt")
+  print("Saved in File newmail.txt") 
